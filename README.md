@@ -1,4 +1,4 @@
-# Rock Paper Scissors :rock: :paper: :scissors:
+# Rock Paper Scissors :moyai: :page_facing_up: :scissors:
 
 ![image](https://www.codefactor.io/repository/github/KennyOliver/rock-paper-scissors/badge?style=for-the-badge)
 
