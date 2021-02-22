@@ -4,7 +4,7 @@
 
 [![](https://repl.it/badge/github/KennyOliver/rock-paper-scissors)](https://repl.it/@KennyOliver/rock-paper-scissors)
 
-Play the classic Rock Paper Scissors in Python!
+Play the classic game of **Rock Paper Scissors** in Python!
 
 ---
 Kenny Oliver ©2021
